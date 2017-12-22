@@ -20,13 +20,17 @@ Both subscription can be accessed via <http://learn.cisco.com>
 * Pluralsight learning path
 
 ## Javascript
-
+* Learning JavaScript: JavaScript Essentials for Modern Application Development (O'Reilly)
+* Pluralsight learning path
 
 ## Tools
 * Homebrew (package manager for OS X)
 * Postman
-* Good text editor (Atom, Sublime Text, Text Wrangler) or IDE (Pycharm, Visual Studio Code)
+* Good text editor (Atom, Sublime Text, BBEdit) or IDE (Pycharm, Visual Studio Code)
 * Github Account
 * Docker for Mac
 * Vagrant (generally also used with Virtual Box)
 * Macdown (simple markdown editor for Mac)
+
+## Things NOT to do
+* Don't pollute the system Python on your laptop, instead use Python virtual environments for specific projects
